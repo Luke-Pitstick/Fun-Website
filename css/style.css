@@ -1,0 +1,20 @@
+body {
+  background-color: rgba(10, 10, 10, 0.945);
+  color: azure;
+  font-family: sans-serif;
+}
+
+
+h1 {
+  color: rgb(177, 32, 32);
+  text-decoration: underline;
+}
+
+
+a {
+  color: rgb(150, 30, 180);
+}
+
+p {
+  color: rgb(37, 165, 37);
+}
